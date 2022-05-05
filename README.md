@@ -1,4 +1,15 @@
-Hi 👋 My name is Kurt Malley ============================  Full Stack Software Developer -----------------------------  Highly experienced construction project manager that is bringing my passion, problem solving and collaborative skills to field of software engineering.  * 🌍  I'm based in Oahu, Hawaii * 🖥️  See my portfolio at [My Portfolio](http://kurtmalley.com) * ✉️  You can contact me at [kjmalley7@gmail.com](mailto:kjmalley7@gmail.com) * 🚀  I'm currently working on [Get Shorty](http://https://kmal808.github.io/url-shortener/) * 🧠  I'm learning JavaScript * 🤝  I'm open to collaborating on Interesting Projects * ⚡  Would like to meet experienced developers and pick their brains.
+Hi 👋 My name is Kurt Malley 
+============================  
+Full Stack Software Developer 
+-----------------------------  
+* Highly experienced construction project manager that is bringing my passion, problem solving and collaborative skills to field of software engineering.  
+* 🌍  I'm based in Oahu, Hawaii 
+* 🖥️  See my portfolio at [My Portfolio](http://kurtmalley.com) 
+* ✉️  You can contact me at [kjmalley7@gmail.com](mailto:kjmalley7@gmail.com) 
+* 🚀  I'm currently working on [Get Shorty](http://https://kmal808.github.io/url-shortener/) 
+* 🧠  I'm learning JavaScript  
+* 🤝  I'm open to collaborating on Interesting Projects * 
+* ⚡  Would like to meet experienced developers and pick their brains.
 
 ### Skills
 
