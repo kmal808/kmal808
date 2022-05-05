@@ -1,4 +1,4 @@
-Hi 👋 My name is Kurt Malley 
+Hi 👋 My name is Kurt Malley (aka kmal808)
 ============================  
 Full Stack Software Developer 
 -----------------------------  
