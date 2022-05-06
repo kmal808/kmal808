@@ -1,11 +1,8 @@
-<img src="https://imgur.com/a/M27O1Jt" width="100%" height=200>
-
-
 Hi 👋 My name is Kurt Malley 
 ============================  
 Full Stack Software Developer 
 -----------------------------  
-* Highly experienced construction project manager that is bringing my passion, problem solving and collaborative skills to field of software engineering.  
+* 🏗️  Highly experienced construction operations manager that is bringing my passion, problem solving and collaborative skills to field of software engineering.  
 * 🌍  I'm based in Oahu, Hawaii 
 * 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) 
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
