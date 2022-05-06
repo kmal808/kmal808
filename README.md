@@ -4,12 +4,12 @@ Full Stack Software Developer
 -----------------------------  
 * Highly experienced construction project manager that is bringing my passion, problem solving and collaborative skills to field of software engineering.  
 * 🌍  I'm based in Oahu, Hawaii 
-* 🖥️  See my portfolio at [My Portfolio](http://kurtmalley.com) 
+* 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) 
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
-* 🚀  I'm currently working on [Get Shorty](http://https://kmal808.github.io/url-shortener/) 
+* 🚀  I'm currently working on [Get Shorty | A URL Shortener](http://https://kmal808.github.io/url-shortener/) 
 * 🧠  I'm learning JavaScript  
-* 🤝  I'm open to collaborating on Interesting Projects * 
-* ⚡  Would like to meet experienced developers and pick their brains.
+* 🤝  I'm open to collaborating on Interesting Projects  
+* 👨‍👩‍👦‍👦  My family is my "why" 
 
 ### Skills
 
