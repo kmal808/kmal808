@@ -10,6 +10,7 @@ Full Stack Software Developer
 * 🧠  I'm currently learning JavaScript  
 * 🤝  I'm open to collaborating on interesting projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
+* 🏄  Surf, sk8, and snow
 
 ### Skills
 
