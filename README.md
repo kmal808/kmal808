@@ -8,7 +8,7 @@ Full Stack Software Developer
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
 * 🚀  I'm currently working on [Get Shorty | A URL Shortener](http://https://kmal808.github.io/url-shortener/) 
 * 🧠  I'm currently learning JavaScript  
-* 🤝  I'm open to collaborating on interesting projects  
+* 🤝  I would like to collaborate on interesting open source projects.  
 * 👨‍👩‍👦‍👦  My family is my "why" 
 * 🏄  Surf, sk8, and snow
 
