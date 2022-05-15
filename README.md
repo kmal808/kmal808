@@ -1,4 +1,4 @@
-![](https://imgur.com/aSGlGb1.png) 
+![](https://imgur.com/fYd2fqp.gif) 
 
 Hi 👋 My name is Kurt Malley 
 ============================  
