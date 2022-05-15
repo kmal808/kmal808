@@ -72,11 +72,13 @@ Full Stack Software Developer
 
 ### Socials  
 
+
 <p align="left"> <a href="https://discord.com/users/k-mal#3567" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kmal808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kurtmalley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kmal808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
   
 <br/>  
 
 ### Music  
+
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" /></div>   
 
 <div align="left">
@@ -86,4 +88,4 @@ Full Stack Software Developer
                     align="center"
                 />
             </a></div>
-<br />
+<br/>
