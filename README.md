@@ -76,6 +76,9 @@ Full Stack Software Developer
   
 <br/>  
 
+### Music  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=compact" /></div>  
+
 <div align="left">
             <a href="https://paypal.me/kmalley@northwestexteriors.com" target="_blank" style="display: inline-block;">
                 <img
