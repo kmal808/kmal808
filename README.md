@@ -8,8 +8,8 @@ Full Stack Software Developer
 * 🌍  I'm based on the island of Oahu, Hawaii 
 * 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) 
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
-* 🚀  I'm currently working on [Get Shorty | A URL Shortener](http://https://kmal808.github.io/url-shortener/) 
-* 🧠  I'm currently learning JavaScript and Kubernetes
+* 🚀  I'm currently working on [The Vans Triple Crown of Surfing API](https://triple-crown-api.herokuapp.com)
+* 🧠  I'm currently learning JavaScript and Docker
 * 🤝  I would like to collaborate on interesting open source projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
 * 🏄  I enjoy all things surf, sk8, and snow
