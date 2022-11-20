@@ -8,7 +8,9 @@ Full Stack Software Developer
 * 🌍  I'm based on the island of Oahu, Hawaii 
 * 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) or [WIP 🏗️ site](https://port-site-ten.vervet.app)
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
-* 🚀  I'm currently working on the  [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) with [Code For Hawaii](https://codeforhawaii.org) and [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) an ELI5 surf reporting app using Next13. 
+* 🚀  I'm currently working on:
+  ** The  [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) with [Code For Hawaii](https://codeforhawaii.org)
+  ** [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) an ELI5 surf reporting app using Next13. 
 * 🧠  I'm currently learning the MERN stack, NextJS, and TailwindCSS. 
 * 🤝  I would like to collaborate on interesting open source projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
