@@ -16,7 +16,7 @@ Full Stack Software Developer
 * 👨‍👩‍👦‍👦  My family is my "why" 
 * 🏄  I enjoy all things surf, sk8, and snow
 
-### Music
+### Playing on Spotify
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="200" height="200" /></div>
 
