@@ -15,11 +15,11 @@ Full Stack Software Developer
 * 🤝  I would like to collaborate on interesting open source projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
 * 🏄  I enjoy all things surf, sk8, and snow
------------------------------------
+------------------------------------
 ### What's Playing on Spotify
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="200" height="200" /></div>
-----------------------------------
+------------------------------------
 ## Skills  
 <table><tr><td valign="top" width="33%">
 
