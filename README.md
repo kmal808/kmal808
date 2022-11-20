@@ -19,8 +19,8 @@ Full Stack Software Developer
 ### What's Playing on Spotify
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="200" height="200" /></div>
-------------------------------------
-<br />
+
+
 ## Skills  
 <table><tr><td valign="top" width="33%">
 
