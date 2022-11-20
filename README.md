@@ -6,9 +6,9 @@ Full Stack Software Developer
 -----------------------------  
 * 🏗️  Highly experienced construction operations manager that has brought my passion, problem solving and collaborative skills to field of software engineering.  
 * 🌍  I'm based on the island of Oahu, Hawaii 
-* 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) 
+* 🖥️  See my portfolio at [kurtmalley.com](http://kurtmalley.com) or [WIP 🏗️ site](https://port-site-ten.vervet.app)
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
-* 🚀  I'm currently working on [a new portfolio site written in Nextjs & Tailwind](https://port-site-ten.vercel.app/)
+* 🚀  I'm currently working on the  [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) with [Code For Hawaii](https://codeforhawaii.org) and [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) an ELI5 surf reporting app using Next13. 
 * 🧠  I'm currently learning the MERN stack, NextJS, and TailwindCSS. 
 * 🤝  I would like to collaborate on interesting open source projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
@@ -82,7 +82,7 @@ Full Stack Software Developer
 
 ### Music  
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" /></div>   
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="100" height="100" /></div>   
 
 <div align="left">
             <a href="https://paypal.me/kmalley@northwestexteriors.com" target="_blank" style="display: inline-block;">
