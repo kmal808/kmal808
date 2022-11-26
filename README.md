@@ -10,7 +10,7 @@ Full Stack Software Developer
 * 🚀  I'm currently working on:
   * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) with my [Code For Hawaii](https://codeforhawaii.org) fam
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app using Next13
-  * [Punch List Manager](https://github.com/kmal808/punch-list-manager) Construction site punch lists that can be shared amongst team members
+  * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating construction site punch lists that can be shared amongst team members
   * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
 * 🧠  I'm currently learning the MERN stack, NextJS, and TailwindCSS. 
 * 🖥️  [kurtmalley.com](http://kurtmalley.com) or [WIP 🏗️ personal site](https://port-site-ten.vervet.app) 
