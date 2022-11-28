@@ -4,23 +4,19 @@ Aloha 👋 My name is Kurt Malley
 ============================  
 Full Stack Software Developer 
 -----------------------------  
-* 🏗️  Highly experienced construction operations manager that has brought my passion, problem solving and collaborative skills to field of software engineering.  
-* 🌍  I'm based on the island of Oahu, Hawaii 
+* 🏗️  Highly experienced construction operations manager that has brought my passion, problem solving and collaborative skills to field of software and web development.  
+* 🌍  Location: Oahu, Hawaii 
 * ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
 * 🚀  I'm currently working on:
-  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) with my [Code For Hawaii](https://codeforhawaii.org) fam
-  * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app using Next13
-  * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating construction site punch lists that can be shared amongst team members
+  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) The current focus project at [Code For Hawaii](https://codeforhawaii.org)
+  * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
+  * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
   * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
 * 🧠  I'm currently learning the MERN stack, NextJS, and TailwindCSS. 
 * 🖥️  [kurtmalley.com](http://kurtmalley.com) or [WIP 🏗️ personal site](https://port-site-ten.vervet.app) 
-* 🤝  I would like to collaborate on interesting open source projects  
 * 👨‍👩‍👦‍👦  My family is my "why" 
-* 🏄  I enjoy all things surf, sk8, and snow
+* 🏄  I enjoy all things surf, sk8, and snow (and will gladly talk shop)
 ------------------------------------
-### What's Playing on Spotify
-
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="175" height="200" /></div>
 
 
 ## Skills  
@@ -79,7 +75,16 @@ Full Stack Software Developer
 
 </td></tr></table>  
 
+
 <br/>   
+
+----------------------------
+
+### Recently Played on Spotify
+
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="169" height="200" /></div>
+
+---------------------------
 
 ### Socials  
 
