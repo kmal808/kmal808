@@ -6,8 +6,8 @@ Full Stack Software Developer
 -----------------------------  
 * 👷‍♂️  Highly experienced construction operations manager that has brought my passion, problem solving and collaborative skills to field of software and web development.  
 * 🌍  Location: Oahu, Hawaii 
-* ✉️  You can contact me at [kurtmalleydev@gmail.com](mailto:kurtmalleydev@gmail.com) 
-* 🤝  You can find me at the [Code For Hawaii Meetups](https://www.meetup.com/code-for-hawaii/) 
+* ✉️  You can contact me at [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
+* 🤝  You can find me at the [Code with Aloha Meetups](https://www.meetup.com/code-with-aloha/) 
 * 🚀  I'm currently working on:
   * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) The current focus project at [Code For Hawaii](https://codeforhawaii.org)
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
