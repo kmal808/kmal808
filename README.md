@@ -9,7 +9,7 @@ Kurt Malley | Subpar 1/4 Stack Developer | Above average nacho crafter
 * ✉️  You can contact me at [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
 * 🤝  You can find me at the [Code with Aloha Meetups](https://www.meetup.com/code-with-aloha/) 
 * 🚀 Projects:
-  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) The current focus project at [Code with Aloha](https://codewithaloha.org)
+  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) A focus project at [Code with Aloha](https://codewithaloha.org)
   * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
   * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
 * 🚧 WIP's:
