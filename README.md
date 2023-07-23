@@ -83,7 +83,7 @@ _This is supposed to say "Skills" but I'm not very good at any of them so idk...
 
 ### Recently Played on Spotify
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default" width="169" height="200" /></div>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3173lgtn7fxihzypnms3tlv3b2da&cover_image=true&theme=default&show_offline=false&background_color=423f73&interchange=false&bar_color=09ff00&bar_color_cover=false" /></div>  
 
 ---------------------------
 
