@@ -1,28 +1,26 @@
-![](https://imgur.com/fYd2fqp.gif) 
+<!-- ![](https://imgur.com/fYd2fqp.gif) -->
 
 Howzit 👋  
 ==========================================
-Kurt Malley | Subpar 1/4 Stack Developer | Above average nacho crafter
+Kurt Malley | Subpar Developer | Above average nacho crafter
 -----------------------------  
-* :construction_worker: Highly experienced construction operations manager that has brought my passion, problem solving and collaborative skills to field of software and web development.  
-* 🌍  Location: Oahu, Hawaii 
-* ✉️  You can contact me at [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
-* 🤝  You can find me at the [Code with Aloha Meetups](https://www.meetup.com/code-with-aloha/) 
+* :construction_worker: by day
+* 🥷 by night
+* 🌍 Oahu, Hawaii 
+* ✉️  Hmu @ [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
+* 🤝 Volunteer @ [Code with Aloha](https://codewithaloha.org)
 * 🚀 Projects:
   * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) A focus project at [Code with Aloha](https://codewithaloha.org)
   * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
   * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
 * 🚧 WIP's:
-  * Shared Lists 
+  * [Shared 📋 Lists](https://github.com/kmal808/shared-lists) CRUD(S) app - create, read, update, delete, with an added operation to share  
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
-* 🖥️  Peep my forever WIP 🏗️ [personal site](https://kmal.ninja) 
-* 🗨️  Ask me about my homelab and self-hosting all of the things
-* 👨‍👩‍👦‍👦  My family is my "why" 
-* 🏄  I enjoy all things surf, sk8, and snow (and will gladly talk shop)
+  * [Port Site](https://kmal.ninja) 
+
 ------------------------------------
 
-
-_This is supposed to say "Skills" but I'm not very good at any of them so idk...._ 🤷
+### Stuff I break 
 <table><tr><td valign="top" width="33%">
 
 
@@ -36,10 +34,13 @@ _This is supposed to say "Skills" but I'm not very good at any of them so idk...
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="Next.js" height="50" />
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="Tailwind.CSS" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/wordpress_icon-icons.com_60472.png" alt="WordPress" height="50" />      
+<!-- <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/wordpress_icon-icons.com_60472.png" alt="WordPress" height="50" />      
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /> -->
 </div>
+
+
+
 
 </td><td valign="top" width="33%">
 
@@ -52,24 +53,25 @@ _This is supposed to say "Skills" but I'm not very good at any of them so idk...
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /> -->
 <img styel="margin: 10px" src="https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png" alt="Vercel" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana" height="50" />
+<!-- <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana" height="50" /> -->
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### Ops & Infra  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="GitLab" height="50" /> 
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/virtualbox_logo_icon_249263.png" alt="VirtualBox" height="50" />
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /> -->
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" alt="Nginx" height="50" />
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/github_101792.png" alt="GitHub" height="50" />
 </div>
@@ -90,16 +92,18 @@ _This is supposed to say "Skills" but I'm not very good at any of them so idk...
 ### Socials  
 
 
-<p align="left"> <a href="https://discord.com/users/k-mal#3567" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kmal808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kurtmalley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kmal808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-  
+<div align="left"> 
+<a href="https://discord.com/users/k-mal#3567" target="_blank" rel="noreferrer"><img style="margin: 20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/kmal808" target="_blank" rel="noreferrer"><img style="margin: 20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/kurtmalley" target="_blank" rel="noreferrer"><img style="margin: 20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/kmal808" target="_blank" rel="noreferrer"><img style="margin: 20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</div>
+
 <br/>  
    
 
 <div align="left">
-            <a href="https://paypal.me/kmalley@northwestexteriors.com" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+ <img alt="Static Badge" src="https://img.shields.io/badge/Help_put_my_kids-Through_private_school-blue">
+</div>
+
 <br/>
