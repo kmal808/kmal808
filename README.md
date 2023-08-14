@@ -18,7 +18,12 @@ Kurt Malley | Subpar Developer | Above average nacho crafter
   * [About Me](https://kmal.ninja) Muy PoRtFoLIo SiTe 
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
 ------------------------------------
+<div align="left">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Help_put_my_kids-Through_school-blue"
+  
+</div>
 
+<br/>
 ### Stuff I break 
 <table><tr><td valign="top" width="33%">
 
@@ -99,10 +104,4 @@ Kurt Malley | Subpar Developer | Above average nacho crafter
 </div>
 
 <br/>  
-   
-
-<div align="left">
- <img alt="Static Badge" src="https://img.shields.io/badge/Help_put_my_kids-Through_private_school-blue">
-</div>
-
-<br/>
+  
