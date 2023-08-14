@@ -19,11 +19,12 @@ Kurt Malley | Subpar Developer | Above average nacho crafter
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
 ------------------------------------
 <div align="left">
- <img alt="Static Badge" src="https://img.shields.io/badge/Help_put_my_kids-Through_school-blue"
+ <img alt="Static Badge" src="https://img.shields.io/badge/A badge would look-nice here right-blue"
   
 </div>
 
-<br/>
+</br>
+
 ### Stuff I break 
 <table><tr><td valign="top" width="33%">
 
