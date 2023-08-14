@@ -14,10 +14,9 @@ Kurt Malley | Subpar Developer | Above average nacho crafter
   * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
   * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
 * 🚧 WIP's:
-  * [Shared 📋 Lists](https://github.com/kmal808/shared-lists) CRUD(S) app - create, read, update, delete, with an added operation to share  
+  * [Shared 📋 Lists](https://github.com/kmal808/shared-lists) CRUD(S) app - create, read, update, delete, with an added operation for sharing
+  * [About Me](https://kmal.ninja) Muy PoRtFoLIo SiTe 
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
-  * [About Me](https://kmal.ninja) 
-
 ------------------------------------
 
 ### Stuff I break 
