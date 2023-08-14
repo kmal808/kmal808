@@ -16,7 +16,7 @@ Kurt Malley | Subpar Developer | Above average nacho crafter
 * 🚧 WIP's:
   * [Shared 📋 Lists](https://github.com/kmal808/shared-lists) CRUD(S) app - create, read, update, delete, with an added operation to share  
   * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
-  * [Port Site](https://kmal.ninja) 
+  * [About Me](https://kmal.ninja) 
 
 ------------------------------------
 
