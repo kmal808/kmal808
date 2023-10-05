@@ -2,21 +2,22 @@
 
 Howzit 👋  
 ==========================================
-Kurt Malley | Subpar Developer | Above average nacho crafter
+Kurt Malley | Mediocre WebDev | Above average nacho crafter
 -----------------------------  
 * :construction_worker: by day
 * 🥷 by night
 * 🌍 Oahu, Hawaii 
 * ✉️  Hmu @ [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
-* 🤝 Volunteer @ [Code with Aloha](https://codewithaloha.org)
-* 🚀 Projects:
-  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) A focus project at [Code with Aloha](https://codewithaloha.org)
+* 🚀 Recent Projects:
+  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com)Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii
+      - While volunteering w/ [Code with Aloha](https://codewithaloha.org)
   * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
-  * [Menehune URL Shortener](https://menehune-url.bobbynoodles.com) Team CFH's submission for the [HACC](https://hacc.hawaii.gov/)
+  * [Menehune URL Shortener](https://github.com/CodeWithAloha/HACC2022) Team CFH's submission for the [HACC-2022](https://hacc.hawaii.gov/)
 * 🚧 WIP's:
+  * [YouTube to MP3](https://yt2mp3.wtf.kim) YouTube video link to mp3 audio file
+  * [CPQ - Configure, Price, Quote](https://github.com/kmal808/cpq) Construction estimates and purchase orders made easy 
   * [Shared 📋 Lists](https://github.com/kmal808/shared-lists) CRUD(S) app - create, read, update, delete, with an added operation for sharing
   * [About Me](https://kmal.ninja) Muy PoRtFoLIo SiTe 
-  * [Go 👍 or 👎 No](https://github.com/kmal808/go-or-no) ELI5 surf reporting app 
 ------------------------------------
 <div align="left">
  <img alt="Static Badge" src="https://img.shields.io/badge/A badge would look-nice here right-blue"
