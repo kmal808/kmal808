@@ -9,7 +9,7 @@ Kurt Malley | Mediocre WebDev | Above average nacho crafter
 * 🌍 Oahu, Hawaii 
 * ✉️  Hmu @ [wtf@kmal.sbs](mailto:wtf@kmal.sbs) 
 * 🚀 Recent Projects:
-  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com)Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii
+  * [Hawaii Zoning Atlas](https://hawaiizoningatlas.com) Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii
       - While volunteering w/ [Code with Aloha](https://codewithaloha.org)
   * [Punch List Manager](https://github.com/kmal808/punch-list-manager) An app for creating shareable construction job-site punch lists
   * [Menehune URL Shortener](https://github.com/CodeWithAloha/HACC2022) Team CFH's submission for the [HACC-2022](https://hacc.hawaii.gov/)
