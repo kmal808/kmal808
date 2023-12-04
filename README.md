@@ -2,7 +2,7 @@
 
 Howzit 👋  
 ==========================================
-Kurt Malley | Mediocre WebDev | Above average nacho crafter
+Kurt Malley | Subpar WebDev | Above average nacho crafter
 -----------------------------  
 * :construction_worker: by day
 * 🥷 by night
