@@ -24,68 +24,7 @@ Kurt Malley 🃞🂡 | Subpar WebDev 😕 | Above average nacho crafter 🤤
   
 </div>
 
-</br>
-
-### Stuff I break 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="Next.js" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="Tailwind.CSS" height="50" />  
-<!-- <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/wordpress_icon-icons.com_60472.png" alt="WordPress" height="50" />      
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /> -->
-</div>
-
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mariadb_icon_130403.png" alt="Maria DB" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /> -->
-<img styel="margin: 10px" src="https://cdn.icon-icons.com/icons2/3375/PNG/512/vercel_brand_icon_211876.png" alt="Vercel" height="50" />
-<!-- <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana" height="50" /> -->
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Ops & Infra  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_logo_icon_146503.png" alt="GitLab" height="50" /> 
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/virtualbox_logo_icon_249263.png" alt="VirtualBox" height="50" />
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /> -->
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/github_101792.png" alt="GitHub" height="50" />
-</div>
-
-</td></tr></table>  
-
-
-<br/>   
+</br>   
 
 ----------------------------
 
